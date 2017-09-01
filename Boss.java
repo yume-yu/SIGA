@@ -18,7 +18,6 @@ public class Boss extends Enemies {
 
     }
 
-    ;
     
     @Override
     protected void addedToWorld(World world) {
